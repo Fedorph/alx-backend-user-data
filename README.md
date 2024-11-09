@@ -1,2 +1,2 @@
 # ALX Backend - User Data
-Repository of projects involving user data.
+This a repository of projects that involve user's data.
